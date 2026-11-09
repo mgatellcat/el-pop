@@ -6,7 +6,7 @@ Joc accessible per al navegador (HTML5 i JavaScript, sense instal·lar res). Un 
 
 ## Per a qui és
 
-Pensat per a alumnat que juga amb tecles o commutadors: mai cal prémer dues tecles alhora i no hi ha pressió de temps.
+Pensat per a alumnat amb dificultats motrius o visuals: mai cal prémer dues tecles alhora i no hi ha pressió de temps. Es pot jugar amb **tecles**, amb **pantalla tàctil** (toca un carril i el pop hi va) o amb la **mirada** (Tobii amb TD Control o Grid 3 en mode ratolí: el pop va al carril que mires quan s'omple el rellotge, amb temps de fixació configurable i tinta automàtica).
 
 - **Fàcil (2 tecles):** amunt i avall. La tinta es llança sola.
 - **Normal (3 tecles):** amunt, avall i acció (tinta).
@@ -23,7 +23,7 @@ Es poden combinar amb quatre pops: Pipa, Brau, Lila i Nauti.
 
 ## Opcions del docent
 
-Velocitat (per defecte lenta), dificultat, mode d'un sol botó, vides (també infinites), de 3 a 5 carrils, tecles configurables, volum de música i efectes, frase final i veu parlada, i avisos de so. Els canvis es guarden al navegador.
+Forma de joc (tecles o mirada) i temps de fixació, velocitat (per defecte lenta), dificultat, mode d'un sol botó, vides (també infinites), de 3 a 5 carrils, tecles configurables, volum de música i efectes, frase final i veu parlada, i avisos de so. Els canvis es guarden al navegador.
 
 ## Estat
 
